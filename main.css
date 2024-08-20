@@ -5,12 +5,13 @@ table, tr, td{
  }
  
  .largura{
-      background-color: rgb(231, 247, 7);
+      background-color: rgb(247, 115, 7);
       color: white;
  }
  
  #largColuna{
      width: 120px;
+     background-color: rgb(247, 115, 7);
  }
  
  body{     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -19,4 +20,6 @@ table, tr, td{
     background-color: black;
 }
 
-tem menu de contexto
+#cidade{
+    background-color: blue;
+}
