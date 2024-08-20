@@ -4,10 +4,10 @@ Projeto criado como parte avaliativa da dicsiplina denFundamentos de Desenvolvim
 
 ## índice
 
-* [Descrição]()
-* [Tecnologias]()
-* [Referências]()
-* [Autor(a)]()
+* [Descrição](#Descrição)
+* [Tecnologias](#Tecnologias)
+* [Referências](#Referências)
+* [Autor(a)](#Autor(a))
 
 ## Descrição
 
@@ -24,6 +24,23 @@ Oprojeto criado na composição de uma tabela que conta com capitais blasileiras
 
 ## tecnologias
 
+* HTML5
+* CSS3
+* README
+* Git
+* Github
+
 ## Referências
 
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Guthub
+
 ## Autor(a)
+
+O projeto foi desenvolvido por:
+
+* Rafaela Araujo
+* Kiara Messías 
+* Isabella Fontana
+* Vitor Eduardo
+* Caio lovisom
+* Miguel Gonçalves
